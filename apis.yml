@@ -39,7 +39,6 @@ apis:
   - name: Gun Policy
     description: "International firearm injury prevention and policy"
     humanURL: https://www.gunpolicy.org/api
-    baseURL: https://www.gunpolicy.org/api
     tags:
       - Government
     properties:
